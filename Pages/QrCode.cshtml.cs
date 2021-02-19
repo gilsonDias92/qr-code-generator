@@ -6,10 +6,10 @@ namespace QRCodeWebApp.Pages
 {
   public class QrCodeModel : PageModel
   {
-    public IActionResult OnGet()
+    public IActionResult OnGet([FromQuery] string url)
     {
       //Gera a imagem do QRCode com array de bytes
-      var image = QrCodeGenerator.GenerateByteArray("https://github.com/gilsonDias92/");
+      var image = QrCodeGenerator.GenerateByteArray(url);
       return File(image, "image/jpeg");
     }
   }

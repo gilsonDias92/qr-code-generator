@@ -1887,18 +1887,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\gilsi\\Desktop\\.net\\app\\QRCodeDotNet\\QRCodeWebApp\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\gilsi\\Desktop\\.net\\app\\QRCodeDotNet\\QRCodeWebApp\\Pages\\QrCode.cshtml",
       "TargetPath": "Pages\\QrCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\gilsi\\Desktop\\.net\\app\\QRCodeDotNet\\QRCodeWebApp\\Pages\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {

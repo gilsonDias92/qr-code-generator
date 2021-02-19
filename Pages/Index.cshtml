@@ -1,11 +1,18 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "QR Code Generator";
+    ViewData["Title"] = "QR Code";
 }
 
-<div class="text-center">
-    <h1 class="display-4">QR Code Generator</h1>
+<div class="main-container">
+    <h1>Gerador de QR Code</h1>
+    <p>Na barra de endereços, adicione o seguinte texto:</p>
+    <p><b>/qrcode?url=<i>seu_link</i></b></p>
+    <p>No lugar de 'seu_link', coloque o endereço da página que deseja gerar o QR code</p>
+    <p>Por exemplo, se eu quiser gerar um QR code para a página do google, ficaria assim:</p>
+    <p>https://localhost:5001<b>/qrcode?url=https://google.com</b></p>
 
-    <img src="https://localhost:5001/qrcode" alt="qr-code">
+    <img src="https://localhost:5001/qrcode?url=https://google.com" alt="qr-code">
+    <img src="https://localhost:5001/qrcode?url=https://linkedin.com" alt="qr-code">
+    <img src="https://localhost:5001/qrcode?url=https://amazon.com" alt="qr-code">
 </div>
