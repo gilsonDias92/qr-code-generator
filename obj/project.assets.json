@@ -12264,7 +12264,7 @@
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "QRCoder"
+      "QRCoder >= 1.4.1"
     ]
   },
   "packageFolders": {
@@ -12327,7 +12327,7 @@
           },
           "QRCoder": {
             "target": "Package",
-            "version": "(, )"
+            "version": "[1.4.1, )"
           }
         },
         "imports": [

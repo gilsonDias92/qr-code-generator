@@ -1867,7 +1867,7 @@
         }
       }
     ],
-    "CSharpLanguageVersion": 703
+    "CSharpLanguageVersion": 2147483646
   },
   "RootNamespace": "QRCodeWebApp",
   "Documents": [
