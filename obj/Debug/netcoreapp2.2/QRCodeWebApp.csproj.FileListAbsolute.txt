@@ -14,9 +14,7 @@ C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\bin\Debug\netcoreapp2.
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.TagHelpers.input.cache
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.TagHelpers.output.cache
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.RazorCoreGenerate.cache
-C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
-C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
@@ -28,3 +26,4 @@ C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.dll
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.pdb
 C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\QRCodeWebApp.csproj.CopyComplete
+C:\Users\gilsi\Desktop\.net\app\QRCodeDotNet\QRCodeWebApp\obj\Debug\netcoreapp2.2\Razor\Pages\QrCode.g.cshtml.cs
